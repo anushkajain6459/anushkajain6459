@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Anushka Jain</h1>
 
-I am **Anushka Jain** pursuing B.Tech in Mechanical and Automation from IGDTUW, Delhi. As of now, I am focused on <b>Web development</b> but still, wish to explore many fields. ⚡
+I am **Anushka Jain**, pursuing B.Tech in Mechanical and Automation from IGDTUW, Delhi. As of now, I am focused on <b>Web development</b> but still, wish to explore many fields. ⚡
 
 <img src="topbanner.gif"> 
 
