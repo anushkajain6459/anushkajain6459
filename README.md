@@ -18,7 +18,7 @@ I am **Anushka Jain** pursuing B.Tech in Mechanical and Automation from IGDTUW, 
 <img src="https://activity-graph.herokuapp.com/graph?username=anushkajain6459&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
 </div>
 
-<h2>Let's Connect</h2> 
+<h2>Let's Connecttttttt</h2> 
 
 <div>
 <a  href="https://www.linkedin.com/in/anushka-jain-9508a91a1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
